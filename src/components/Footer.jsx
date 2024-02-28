@@ -31,11 +31,11 @@ const Footer = () => {
                 </li>
                 <li className='flex-center text'>
                     <MdOutlineFacebook size={22}/>
-                    <span><a href="https://www.facebook.com/cripumps" target='_blank'>www.facebook.com/cripumps</a></span>
+                    <span><a href="https://www.facebook.com/cripumps" target='_blank' rel="noreferrer">www.facebook.com/cripumps</a></span>
                 </li>
                 <li className='flex-center text'>
                     <FaGlobe size={22}/>
-                    <span><a href="https://www.cripumps.com"target='_blank'>www.cripumps.com</a></span>
+                    <span><a href="https://www.cripumps.com"target='_blank' rel="noreferrer">www.cripumps.com</a></span>
                 </li>
             </ul>
         </div>
